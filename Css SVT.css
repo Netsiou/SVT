@@ -1,0 +1,14 @@
+
+body{
+    background-image: url('https://www.nicecotedazur.org/uploads/media_items/biodiversit%c3%a9-nca-ok.original.jpg');
+    background-position: top;
+    background-size: cover;
+}
+
+#CssSVT{
+    width: 800px;
+    margin:0 auto;
+    background-color: rgba(70, 117, 70, 0.452);
+    text-align: center;
+    align-content: center;
+}
