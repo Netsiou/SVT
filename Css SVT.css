@@ -5,6 +5,10 @@ body{
     background-size: cover;
 }
 
+div{
+    text-align: center;
+    align-content: center; 
+}
 #CssSVT{
     width: 800px;
     margin:0 auto;
